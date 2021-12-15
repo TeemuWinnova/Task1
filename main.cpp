@@ -7,7 +7,7 @@ using namespace std;
 
 int main()
 {
-    output(input());
+    harjoitus::output(harjoitus::input());
     return 0;
 
 }
